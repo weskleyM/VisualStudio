@@ -1,0 +1,11 @@
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\JogoDaVelha\bin\Debug\JogoDaVelha.exe.config
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\JogoDaVelha\bin\Debug\JogoDaVelha.exe
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\JogoDaVelha\bin\Debug\JogoDaVelha.pdb
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\JogoDaVelha\bin\Debug\JogoDaVelha.xml
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\JogoDaVelha\obj\Debug\JogoDaVelha.vbprojAssemblyReference.cache
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\JogoDaVelha\obj\Debug\JogoDaVelha.JogoVelha.resources
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\JogoDaVelha\obj\Debug\JogoDaVelha.Resources.resources
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\JogoDaVelha\obj\Debug\JogoDaVelha.vbproj.GenerateResource.cache
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\JogoDaVelha\obj\Debug\JogoDaVelha.exe
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\JogoDaVelha\obj\Debug\JogoDaVelha.xml
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\JogoDaVelha\obj\Debug\JogoDaVelha.pdb
