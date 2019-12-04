@@ -1,0 +1,11 @@
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Teste\bin\Debug\Teste.exe.config
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Teste\bin\Debug\Teste.exe
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Teste\bin\Debug\Teste.pdb
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Teste\bin\Debug\Teste.xml
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Teste\obj\Debug\Teste.vbprojAssemblyReference.cache
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Teste\obj\Debug\Teste.frmCalc.resources
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Teste\obj\Debug\Teste.Resources.resources
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Teste\obj\Debug\Teste.vbproj.GenerateResource.cache
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Teste\obj\Debug\Teste.exe
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Teste\obj\Debug\Teste.xml
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Teste\obj\Debug\Teste.pdb
