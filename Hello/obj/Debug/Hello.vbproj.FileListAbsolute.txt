@@ -1,0 +1,11 @@
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Hello\bin\Debug\Hello.exe.config
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Hello\bin\Debug\Hello.exe
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Hello\bin\Debug\Hello.pdb
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Hello\bin\Debug\Hello.xml
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Hello\obj\Debug\Hello.vbprojAssemblyReference.cache
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Hello\obj\Debug\Hello.HelloWorld.resources
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Hello\obj\Debug\Hello.Resources.resources
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Hello\obj\Debug\Hello.vbproj.GenerateResource.cache
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Hello\obj\Debug\Hello.exe
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Hello\obj\Debug\Hello.xml
+C:\Users\weskl\Documents\Visual Studio 2019\Projects\Hello\obj\Debug\Hello.pdb
